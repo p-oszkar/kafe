@@ -5,5 +5,5 @@ description: test
 image: /images/uploads/homepage-hero.jpg
 ---
 ```
-<iframe src="https://kiwiirc.com/nextclient/?theme=sky#irc://irc.romaniachat.eu/Romania?nick=KiwiChat_??" style="width:900px; height:500px;"></iframe>  
+<iframe src="https://kiwiirc.com/nextclient/?theme=sky#irc://irc.romaniachat.eu/Romania?nick=KiwiChat_??" style="width:100%; height:500px;"></iframe>  
 ```
